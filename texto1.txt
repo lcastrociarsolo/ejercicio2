@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 nuevo texo de ejemplo
+=======
+texto ejemplo 1
+texto ejemplo 1
+texto ejemplo 1
+texto ejemplo 1
+>>>>>>> 31256c3cb698ecb00869d687e407dfa04ea1d81b
